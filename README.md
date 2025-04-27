@@ -17,3 +17,12 @@ The analysis identifies high-return items and categories, helping businesses opt
 Tools Used:
 
 Power BI (DAX Measures, KPIs, Trend Analysis, Slicers)
+# 🚀 Repository Summary:
+📊 Visual Dashboards for quick business insights
+
+🛠 Dynamic Filters to interact with the reports
+
+📈 DAX Measures used for deep analysis
+
+🎯 Real-world business scenarios targeted
+
