@@ -8,3 +8,12 @@ The project aims to help HR teams proactively address employee turnover.
 Tools Used:
 
 Power BI (DAX, Visualizations, Filters)
+# 📁 Project 2: E-commerce Return Rate Reduction Analysis
+# Description:
+This project focuses on analyzing product return rates from an e-commerce sales dataset.
+It measures key metrics such as total revenue, refund amounts, and return rates across different product categories.
+The analysis identifies high-return items and categories, helping businesses optimize their return management strategies.
+
+Tools Used:
+
+Power BI (DAX Measures, KPIs, Trend Analysis, Slicers)
